@@ -18,8 +18,7 @@
 - 🌱 I’m learning **Flutter**, and **Advanced Backend Systems**.
 - 👨‍🎓 I’m pursuing an **IT Engineering degree** at [ESPRIT](https://esprit.tn).
 - 💬 Ask me about **Web Development**, **Networking**, and **IT Security**.
-- 🏆 Participated in **"Bal des Projets"** with the “5adamni” Job-Seeking Platform.
-- ⚡ Fun fact: I love gaming, anime, and playing football with friends.
+- ⚡ Fun fact: I love swimming, tennis, and playing football with friends.
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -44,7 +43,6 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZ1Zmk1bTU2OWdoNmFpdGZzMXlzdzBrcXo3OG9lZ3B6bGN0MnhnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vxnOeDgpwsOAPF7e7A/giphy.gif" width="25"><b> Projects </b>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
